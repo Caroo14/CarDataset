@@ -18,20 +18,20 @@ Data Visualization: Created scatter plots, boxplots, and bar charts using librar
 
 Exploratory Data Analysis (EDA): Analyzed how key features relate to MSRP, fuel efficiency, and popularity.
 
-# Key Insights
+# Insights
 Larger vehicles tend to be more expensive, especially SUVs, trucks, and vans.
 
-Higher engine horsepower = higher price — strong positive correlation.
+Higher engine horsepower = higher price and has a  strong positive correlation.
 
 Rear-Wheel Drive and All-Wheel Drive vehicles are pricier, with many luxury outliers.
 
 Manual transmissions are the least fuel-efficient, while electric vehicles (direct drive) perform best.
 
-Popular brands are not necessarily the most powerful or expensive — popularity is influenced by other factors.
+Popular brands are not necessarily the most powerful or expensive and  popularity is influenced by other factors.
 
-Electric vehicles show promise, but more data is needed to draw strong conclusions.
+Electric vehicles show promise, but more data is needed to draw strong conclusions. 
 
-# Tools & Libraries
+# Libraries
 pandas and numpy for data manipulation
 
 matplotlib and seaborn for data visualization
